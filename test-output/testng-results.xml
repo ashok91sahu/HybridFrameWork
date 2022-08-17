@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[9  10 4   14]]>
+    </line>
+    <line>
+      <![CDATA[Login success::  http://primusbank.qedgetech.com/adminflow.aspx]]>
+    </line>
+    <line>
+      <![CDATA[Logout success]]>
+    </line>
+    <line>
+      <![CDATA[Login success::  http://primusbank.qedgetech.com/adminflow.aspx]]>
+    </line>
+    <line>
+      <![CDATA[New Branch with id 134 created Sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout success]]>
+    </line>
+    <line>
+      <![CDATA[Login success::  http://primusbank.qedgetech.com/adminflow.aspx]]>
+    </line>
+    <line>
+      <![CDATA[Branch Updated successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-15T09:24:51Z" name="Suite" finished-at="2022-08-15T09:25:48Z" duration-ms="56327">
+    <groups>
+    </groups>
+    <test started-at="2022-08-15T09:24:51Z" name="Test" finished-at="2022-08-15T09:25:48Z" duration-ms="56327">
+      <class name="driversScript.ExecutableScript">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driversScript.ExecutableScript@3b79fd76]" started-at="2022-08-15T09:24:43Z" name="setUp" finished-at="2022-08-15T09:24:51Z" duration-ms="8037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driversScript.ExecutableScript@3b79fd76]" started-at="2022-08-15T09:24:51Z" name="startTest" finished-at="2022-08-15T09:25:48Z" duration-ms="56301" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[9  10 4   14]]>
+            </line>
+            <line>
+              <![CDATA[Login success::  http://primusbank.qedgetech.com/adminflow.aspx]]>
+            </line>
+            <line>
+              <![CDATA[Logout success]]>
+            </line>
+            <line>
+              <![CDATA[Login success::  http://primusbank.qedgetech.com/adminflow.aspx]]>
+            </line>
+            <line>
+              <![CDATA[New Branch with id 134 created Sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout success]]>
+            </line>
+            <line>
+              <![CDATA[Login success::  http://primusbank.qedgetech.com/adminflow.aspx]]>
+            </line>
+            <line>
+              <![CDATA[Branch Updated successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="Clouser()[pri:0, instance:driversScript.ExecutableScript@3b79fd76]" started-at="2022-08-15T09:25:48Z" name="Clouser" finished-at="2022-08-15T09:25:48Z" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clouser -->
+      </class> <!-- driversScript.ExecutableScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

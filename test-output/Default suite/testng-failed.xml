@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="driversScript.ExecutableScript">
+        <methods>
+          <include name="setUp"/>
+          <include name="startTest"/>
+          <include name="Clouser"/>
+        </methods>
+      </class> <!-- driversScript.ExecutableScript -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
